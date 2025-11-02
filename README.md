@@ -14,3 +14,12 @@ The pipeline integrates advanced signal processing techniques with rigorous mach
 
 ## Repository Structure
 The project files are organized for clarity and full reproducibility:
+
+### Setup and Running the Code
+
+1.  **Dependencies:** Ensure you have Python 3.x and the required packages installed (MNE, Scikit-learn, NumPy, Matplotlib).
+2.  **Dataset:** Download the BCI Competition IV 2a dataset and place the GDF files in a designated 'data' folder (or modify the script path).
+3.  **Run:** Execute the main script from your terminal:
+    ```bash
+    python src/1,5.py
+    
