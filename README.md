@@ -1,7 +1,5 @@
 # Optimized-CSP-Pipeline-for-BCI-Competition-IV-2a-Motor-Imagery-Classification.
 
-# Optimized CSP Pipeline for Motor Imagery BCI (BCI Competition IV 2a)
-
 ## Project Summary
 This repository contains the complete implementation and scientific report for an optimized Brain-Computer Interface (BCI) pipeline designed for the binary classification of **Left Hand vs. Right Hand** motor imagery (MI).
 
